@@ -1,0 +1,69 @@
+p {
+  color: #9a0d0d;
+  font-family: Arial;
+}
+
+p a {
+  color:blue;
+}
+
+html {
+  background-image: url("./sfds.png");
+}
+
+div.CABECERA {
+  background-color: #0f0e13;
+  background-image: url("./asda.jpeg");
+  background-repeat: repeat-x;
+  height: 100px;
+  color: #000000;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+  margin-top: inherit;
+}
+
+div.CABECERA a {
+  color: #062cb5;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+  margin-top: inherit;
+}
+
+h1.TITULO {
+  color: #000000;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
+div.PIE a {
+  color: #062cb5;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: inherit;
+  padding: 5px;
+  margin-top: inherit;
+}
+
+div.PIE {
+  background-color: #0f0e13;
+  background-image: url("./asda.jpeg");
+  background-repeat: repeat-x;
+  height: 100px;
+  color: #000000;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+  margin-top: inherit;
+}
+
