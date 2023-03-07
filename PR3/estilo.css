@@ -68,6 +68,10 @@ div.PIE a:hover {
   color: #e62d36;
 }
 
+div.PIE a:visited {
+  color: #182aca;
+}
+
 div.PIE {
   background-color: #0f0e13;
   background-image: url("./cabecerab.jpg");
@@ -125,6 +129,11 @@ div.ZONAPRINCIPAL table.TABLE {
   font-family: 'Arial', Times, serif;
   font-size: 15px;
   font-weight: bold;
+  border: #e62d36 1px solid;
+}
+
+div.ZONAPRINCIPAL table.TABLE td {
+  border: #e62d36 1px solid;
 }
 
 div.ZONAPRINCIPAL table.TABLE a {
@@ -135,6 +144,8 @@ div.ZONAPRINCIPAL table.TABLE a {
 div.ZONAPRINCIPAL table.TABLE a:hover {
   color: #ce1d1d;
 }
+
+
 
 div.ZONASECUNDARIA {
   font-family: 'Arial', Times, serif;
@@ -195,6 +206,10 @@ div.ZONAENLACES a {
 
 div.ZONAENLACES a:hover {
   color: #e62d36;
+}
+
+div.ZONAENLACES a:visited {
+  color: #182aca;
 }
 
 div.ZONAENLACES p.ZONAENLACETITLE {
