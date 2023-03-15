@@ -1,0 +1,229 @@
+p {
+  color: #9a0d0d;
+  font-family: Arial;
+}
+
+p a {
+  color:blue;
+}
+
+html {
+  background-image: url("./fondo.png");
+  width: 770px;
+  height: auto;
+}
+
+div.CABECERA {
+  background-image: url("cabecerab.jpg");
+  background-size: 200px;
+  height: 100px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+  margin-top: inherit;
+  margin-bottom: 20px;
+}
+
+div.CABECERA a {
+  color: #182aca;
+  font-family: 'Arial', Times, serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+  padding: 5px;
+  margin-top: 0px;
+  margin-bottom: 20em;
+}
+
+div.CABECERA a:hover {
+  color: #e62d36;
+}
+
+h1.TITULO {
+  color: #000000;
+  font-family: 'Arial', Times, serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
+
+h1.TITULO:hover {
+  color: #1fb381;
+}
+
+div.PIE a {
+  color: #182aca;
+  font-family: 'Arial', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: inherit;
+  padding: 5px;
+  margin-top: 300px;
+}
+
+div.PIE a:hover {
+  color: #e62d36;
+}
+
+div.PIE a:visited {
+  color: #182aca;
+}
+
+div.PIE {
+  background-color: #0f0e13;
+  background-image: url("./cabecerab.jpg");
+  background-repeat: repeat-x;
+  height: 100px;
+  color: #000000;
+  font-family: 'Arial', Times, serif;
+  font-size: 1.0em;
+  font-weight: bold;
+  text-align: center;
+  padding: 0px;
+  margin-top: 20px;
+}
+
+main {
+  display: flex;
+  margin-top: 20px;
+}
+
+div.ZONAPRINCIPAL {
+  font-family: 'Arial', Times, serif;
+  font-size: 1.5em;
+  background-image: url("./zonaprincipal.jpg");
+  background-repeat: repeat-y;
+  background-size: 920px;
+  height: auto;
+  width: 370px;
+  color: #000000;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+  margin-left: 1px;
+}
+
+div.ZONAPRINCIPAL h2 {
+  color: #000000;
+  font-family: 'Arial', Times, serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  word-wrap: break-word;
+  text-align: center;
+} 
+
+div.ZONAPRINCIPAL img.IMAGEN {
+  width: 300px;
+  height: 300px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+div.ZONAPRINCIPAL table.TABLE {
+  text-align: center;
+  margin-left: 30px;
+  color: #000000;
+  font-family: 'Arial', Times, serif;
+  font-size: 15px;
+  font-weight: bold;
+  border: #e62d36 1px solid;
+}
+
+div.ZONAPRINCIPAL table.TABLE td {
+  border: #e62d36 1px solid;
+}
+
+div.ZONAPRINCIPAL table.TABLE a {
+  color: #0b8f12;
+  font-family: 'Arial', Times, serif;
+}
+
+div.ZONAPRINCIPAL table.TABLE a:hover {
+  color: #ce1d1d;
+}
+
+
+
+div.ZONASECUNDARIA {
+  font-family: 'Arial', Times, serif;
+  font-size: 1.5em;
+  background-image: url("./zonasecundaria.jpg");
+  background-repeat: repeat-y;
+  background-size: 770px;
+  height: auto;
+  width: 260px;
+  padding: 5px;
+
+}
+
+div.ZONASECUNDARIA h2.TITLE {
+  color: #000000;
+  font-family: 'Arial', Times, serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  word-wrap: break-word;
+  text-align: center;
+  padding: 5px;
+  margin-top: 0px;
+  margin-bottom: 20em;
+}
+
+div.ZONASECUNDARIA p {
+  color: #000000;
+  font-family: 'Arial', Times, serif;
+  font-size: 1.5em;
+  word-wrap: break-word;
+  text-align: left;
+  margin-top: 0.5em
+}
+
+div.ZONAENLACES {
+  font-family: 'Arial', Times, serif;
+  font-size: 1.5em;
+  background-image: url("./zonaenlaces.jpg");
+  background-repeat: repeat-y;
+  background-size: 500px;
+  height: auto;
+  width: 130px;
+  padding: 5px;
+  margin-right: 1px;
+}
+
+div.ZONAENLACES a {
+  color: #182aca;
+  font-family: 'Arial', Times, serif;
+  word-wrap: break-word;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+  margin-top: 0px;
+  margin-bottom: 20em;
+}
+
+div.ZONAENLACES a:hover {
+  color: #e62d36;
+}
+
+div.ZONAENLACES a:visited {
+  color: #182aca;
+}
+
+div.ZONAENLACES p {
+  color: #000000;
+  font-family: 'Arial', Times, serif;
+  font-size: 1em;
+  word-wrap: break-word;
+  text-align: left;
+  margin-top: 0.5em
+}
+
+div.ZONAENLACES p.ZONAENLACETITLE {
+  color: #000000;
+  font-family: 'Arial', Times, serif;
+  font-size: 1.5em;
+  margin-top: 0.5em;
+}
